@@ -2,6 +2,28 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
+.mainBanner {
+  width: 1000px;
+  height: 250px;
+  display: block;
+  margin: auto;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.main hr {
+  border: 0;
+  border-top: 1px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 60px;
+}
+
+.content {
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+}
 a {
   color: #00B7FF;
 }
